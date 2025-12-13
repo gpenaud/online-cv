@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Guillaume Penaud
     tagline: Site Reliability Engineer
-    avatar: myself.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: gpenaud.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: guillaume.penaud@gmail.com
@@ -44,7 +44,7 @@ career-profile:
     title: Career Profile
     summary: |
       I am a Site Reliability Engineer & Devops with more than 10 years of experiences, with a large set of skills.
-      From local development stacks to production-grades environment, I'm able and ethousiasts to work on :
+      From local development stacks to production-grades environment, I'm more than able and very enthousiast to work on:
       - Infrastructure as code : Terraform and T.erragrunt, for cloud providers like AWS, Azure, OVH (No GCP yet)
       - Containers technologies: Kubernetes, Docker (compose & swarm included), LXC. 
       - CI/CD pipelines: Github Actions, Gitlab CI
@@ -75,7 +75,7 @@ experiences:
           Qynapse is a startup building AI-powered software to help neurologists diagnose and monitor 
           neurodegenerative diseases such as Alzheimer, Parkinson, SLA.. 
           
-          Tasks:
+          Tasks done:
           - Working on migrating the infrastructure from on-premise to AWS cloud through Terraform & Terragrunt (multi-region EKS clusters).
           - Building CI/CD pipelines with Gitlab CI.
           - Building a powerful local development stack based on Devspace and K3s
@@ -83,12 +83,12 @@ experiences:
           - Implementing monitoring solutions using Prometheus, Grafana, Tempo and Loki, with Alloy as agent.
       - role: Site Reliability Engineer
         time: October 2022 - March 2024
-        company: descours & Cabaud, Lyon (Freelance, Full-Remote)
+        company: Descours & Cabaud, Lyon (Freelance, Full-Remote)
         details: |
           Descours & Cabaud is a major player in the distribution of industrial equipment, tools and consumables
           for professionals in France and Europe.
           
-          Tasks:
+          Tasks done:
           - Working on migrating legacy applications to Kubernetes clusters on Azure Cloud, using Docker, Helm, and Terraform.
           - Maintain legacy deployment system for on-premises servers with ansible playbooks
           - Configure complex RabbitMQ brokers.
@@ -101,7 +101,7 @@ experiences:
           Six developers were assigned to AVS4, and a two devops team. The application, mostly developed in java springs, 
           was regularly released as docker-compose files.
           
-          Tasks:
+          Tasks done:
           - Maintenance and improvement of a docker swarm infrastructure on Vmware machines in a local datacenter. 
           - Maintenance of jenkins CI/CD servers, deployment of a new solution with gitlab-ci.
           - Implementation and configuration of a centralized log stack (ELK) and improvement of the monitoring layer (Prometheus / Grafana).
@@ -130,7 +130,7 @@ experiences:
           I was hired to support and administrate the company’s information system; Xilopix developed a new kind of search engine, and I was reinforcing 
           the system administrator in place, who left shortly after my arrival. I early managed two others system administrators, 6 months after my arrival.
           
-          Tasks:
+          Tasks done:
           - Maintenance and improvement of infrastructure, monitoring and backups (All services were hosted on LXC containers on local hosts, LDAP, DHCP, DNS, routing, nodejs and ruby registries, openvpn) 
           - Management of the company’s lab (6 bare-metal machines), and its network layer 
           - Maintenance and improvement of the configuration automation layer (Puppet 3, then ansible)
