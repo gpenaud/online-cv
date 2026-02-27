@@ -8,261 +8,174 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Guillaume Penaud
+    tagline: Site Reliability Engineer | DevOps
+    avatar: gpenaud.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@jekyllrb'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon:  # Please include your full Mastodon link here.
-    hackerrank: # Please provide your HackerRank username.
-    leetcode: # Please provide your LeetCode username.
+    email: guillaume.penaud@gmail.com
+    phone: +33 6 66 22 24 75 
+    timezone: Europe/Paris
+    citizenship: French
+    # website: https://example.com/
+    linkedin: gpenaud
+    github: gpenaud
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: French
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Walking
           link:
-
-        - item: Snowboarding
+        - item: Dance
           link:
-
-        - item: Cooking
+        - item: Drums
           link:
-
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        - item: Drums
+          link: Build stuffs with my bare hands
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Site Reliability Engineer
+        time: September 2024 - August 2025
+        company: Qynapse, Paris (CDI, Full-Remote)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Qynapse is a startup building AI-powered software to help neurologists diagnose and monitor neurodegenerative diseases such as Alzheimer, Parkinson, SLA..
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          Tasks done:
+            - Working on migrating the infrastructure from on-premise to AWS cloud through Terraform & Terragrunt (multi-region EKS clusters).
+            - Building CI/CD pipelines with Gitlab CI.
+            - Building a powerful local development stack based on Devspace and K3s
+            - Creation of helm charts to package the QyScore solution (4 helm packages aggregated as one meta-package)
+            - Implementing monitoring solutions using Prometheus, Grafana, Tempo and Loki, with Alloy as agent.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+      - role: Site Reliability Engineer
+        time: October 2022 - March 2024
+        company: Descours & Cabaud, Lyon (Freelance, Full-Remote)
+        details: |
+          Descours & Cabaud is a major player in the distribution of industrial equipment, tools and consumables for professionals in France and Europe.
+
+          Tasks done:
+            - Working on migrating legacy applications to Kubernetes clusters on Azure Cloud, using Docker, Helm, and Terraform.
+            - Maintain legacy deployment system for on-premises servers with ansible playbooks
+            - Configure complex RabbitMQ brokers.
+            - Creating from scratch CI/CD gitlab pipelines.
+
+      - role: Automation Engineer / DevOps
+        time: January 2020 - August 2020
+        company: Globaz SA, Le Noirmont, Switzerland
+        details: |
+          Globaz SA develops an application named AVS4.0, a solution for the Swiss insurance funds AS/AVS. Six developers were assigned to AVS4, and a two devops team. The application, mostly developed in java springs, was regularly released as docker-compose files.
+
+          Tasks done:
+            - Maintenance and improvement of a docker swarm infrastructure on Vmware machines in a local datacenter.
+            - Maintenance of jenkins CI/CD servers, deployment of a new solution with gitlab-ci.
+            - Implementation and configuration of a centralized log stack (ELK) and improvement of the monitoring layer (Prometheus / Grafana).
+
+      - role: Cloud consultant
+        time: April 2018 - December 2019
+        company: Osones, Paris
+        details: |
+          Ł’express:
+
+            - Realization of a containerized development stack for a legacy application in php5, realized with docker-compose, mac / windows compatible.
+            - Deployment of a staging environment for the journalists’ editing tool via a packer / terraform / AWS package (small project - 2 EC2 machines, 1 Mysql RDS).
+
+          Cap-Loisirs:
+
+            - Improvment of AWS CI/CD Pipelines (AWS CodeBuild, AWS CodePipeline)
+            - Multiples database migrations to AWS (through AWS DMS service).
+
+          Skiset :
+
+            - Deployment and configuration a kubernetes cluster on AWS
+            - Containerization of non-cloud-native applications.
+            - Creation of a complete CI/CD tool (gitlab-ci) and implementation of datadog.
+
+      - role: System administrator
+        time: November 2015 - March 2018
+        company: Xilopix, Epinal
+        details: |
+          I was hired to support and administrate the company’s information system; Xilopix developed a new kind of search engine, and I was reinforcing the system administrator in place, who left shortly after my arrival. I early managed two others system administrators, 6 months after my arrival.
+
+          Tasks done:
+
+              Maintenance and improvement of infrastructure, monitoring and backups (All services were hosted on LXC containers on local hosts, LDAP, DHCP, DNS, routing, nodejs and ruby registries, openvpn)
+              Management of the company’s lab (6 bare-metal machines), and its network layer
+              Maintenance and improvement of the configuration automation layer (Puppet 3, then ansible)
+              VPS deployment automation via the OVH public cloud (openstack) using terraform.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I am a curious person, i love to learn and improve myself. So IT is not my only passion, 
+      even it is my main one. Here are some personal projects, whom built me as much I built them:
     assignments:
-      - title: Velocity
+      - title: My Tiny House
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "I self constructed my own tiny-house, in which i lived more than 2 years. I still own it and take great pleasure to improve her."
 
-      - title: DevStudio
+      - title: Yurt sweet yurt
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "I also built my own yurt, in which I currently live ; I learned a lot about patience, organisation, and perseverance with that project."
 
-      - title: Tempo
+      - title: CNV, a tender way of life
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "I am a certified Non-violent communication mediator, I learned, sometimes painfully, to be relationally smart. A hard and very interesting way of life. "
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Kubernetes - Orchestration
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Swarm - Orchestration
+        level: 80%  
+
+      - name: CI/CD (gitlab)
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Containers (docker, LXC)
         level: 95%
 
-      - name: Ruby on Rails
+      - name: AWS - IaC
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Azure - IaC
+        level: 35%
+
+      - name: OpenTofu (Terraform) - IaC
+        level: 98%
+
+      - name: Terragrunt - IaC
+        level: 98%
+
+      - name: Ansible - CaC
+        level: 95%   
+
+      - name: DevSpace - Local stack
+        level: 90%
+      
+      - name: Bash - Scripting
+        level: 80%
+
+      - name: Python - Development
         level: 60%
+
+      - name: Golang - Development
+        level: 40%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
