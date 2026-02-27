@@ -9,18 +9,18 @@ sidebar:
 
     # Profile information
     name: Guillaume Penaud
-    tagline: Site Reliability Engineer
-    avatar: gpenaud.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Site Reliability Engineer | DevOps
+    avatar: gpenaud.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: guillaume.penaud@gmail.com
-    phone: +33 6 66 22 24 75
-    timezone: Europe/Paris # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    phone: +33 6 66 22 24 75 
+    timezone: Europe/Paris
     citizenship: French
-    # website: https://gpenaud.leportail.org # Include the full website URL, including "http://" or "https://".
+    # website: https://example.com/
     linkedin: gpenaud
     github: gpenaud
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
@@ -123,6 +123,7 @@ experiences:
             - Deployment and configuration a kubernetes cluster on AWS 
             - Containerization of non-cloud-native applications. 
             - Creation of a complete CI/CD tool (gitlab-ci) and implementation of datadog. 
+
       - role: System administrator
         time: November 2015 - March 2018
         company: Xilopix, Epinal
@@ -161,35 +162,44 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Kubernetes & Docker
-        level: 95%
-      - name: Terraform & Terragrunt
-        level: 85%
-      - name: AWS
-        level: 95%
-      - name: Azure
-        level: 50%
-      - name: GCP 
-        level: 20%
-      - name: Ansible
-        level: 95%
-      - name: Helm
-        level: 90%
-      - name: Local Kubernetes (K3s)
-        level: 70%
-      - name: DevSpace
-        level: 90%
-      - name: Gitlab CI
-        level: 90%
-      - name: Grafana stack 
-        level: 80%
+      - name: Kubernetes - Orchestration
+        level: 98%
+
+      - name: Swarm - Orchestration
+        level: 80%  
+
       - name: GitOps (Flux and Argo)
-        level: 30%
-      - name: LXC & LXD
-        level: 60%
-      - name: Self-hosted services 
-        level: 50%
-      - name: Bash scripting
-        level: 80%
-      - name: Python (ops-oriented)
         level: 70%
+
+      - name: CI/CD (gitlab)
+        level: 98%
+
+      - name: Containers (docker, LXC)
+        level: 95%
+
+      - name: AWS - IaC
+        level: 85%
+
+      - name: Azure - IaC
+        level: 35%
+
+      - name: OpenTofu (Terraform) - IaC
+        level: 98%
+
+      - name: Terragrunt - IaC
+        level: 98%
+
+      - name: Ansible - CaC
+        level: 95%   
+
+      - name: DevSpace - Local stack
+        level: 90%
+      
+      - name: Bash - Scripting
+        level: 80%
+
+      - name: Python - Development
+        level: 60%
+
+      - name: Golang - Development
+        level: 40%
